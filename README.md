@@ -22,3 +22,18 @@ This project implements Support Vector Machine (SVM) for binary classification o
 
 - **pip install pandas numpy matplotlib scikit-learn**
   
+-----------------
+
+🛠 Changes Made
+
+- **Removed unnecessary columns: id and Unnamed: 32**
+
+- **Converted categorical target column diagnosis into numeric (M → 1, B → 0)**
+
+- **Selected two features (radius_mean, texture_mean) for visualization**
+
+- **Added decision boundary plots for both Linear and RBF SVM models**
+
+- **Implemented GridSearchCV for hyperparameter tuning (C and gamma)**
+
+- **Used cross-validation to evaluate performance**
