@@ -49,3 +49,13 @@ For this project, only the following columns are used for training and visualiza
 - **Implemented GridSearchCV for hyperparameter tuning (C and gamma)**
 
 - **Used cross-validation to evaluate performance**
+
+----------------
+
+## 📌 Conclusion  
+The SVM model was tested using both Linear and RBF kernels.**  
+- **The **Linear SVM** achieved a cross-validation accuracy of **0.889 ± 0.025**, showing good performance with a simple linear decision boundary.**  
+- **The **RBF kernel (tuned)** achieved the highest accuracy of **0.907 ± 0.042**, using parameters `C = 10` and `gamma = 1`.**  
+- **This indicates that the RBF kernel, with proper tuning, can capture more complex patterns in the data compared to the linear kernel, leading to slightly better classification performance.**  
+
+------------------
