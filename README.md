@@ -6,6 +6,18 @@ This project implements Support Vector Machine (SVM) for binary classification o
 
 --------
 
+## 📂 Dataset  
+We use the **Breast Cancer Wisconsin (Diagnostic) dataset** (`BCW.csv`), which contains 569 rows.  
+For this project, only the following columns are used for training and visualization:
+
+| Column Name      | Description |
+|------------------|-------------|
+| texture_mean     | Mean of gray-scale values |
+| area_mean        | Mean area of the cell nuclei |
+| diagnosis        | Target class (M = Malignant, B = Benign) |
+
+---
+
 📚 Libraries Used
 
 - **pandas** → For dataset loading and preprocessing
