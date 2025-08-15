@@ -15,3 +15,10 @@ This project implements Support Vector Machine (SVM) for binary classification o
 - **matplotlib** → For decision boundary plotting
 
 - **scikit-learn** → (SVC, Pipeline, GridSearchCV, cross_val_score, StandardScaler) → For SVM modeling, scaling, tuning, and evaluation
+
+------------------
+
+## ⚙️ Installation
+
+- **pip install pandas numpy matplotlib scikit-learn**
+  
