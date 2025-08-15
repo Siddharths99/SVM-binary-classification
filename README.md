@@ -8,7 +8,7 @@ This project implements Support Vector Machine (SVM) for binary classification o
 
 📚 Libraries Used
 
-pandas → For dataset loading and preprocessing
+- **pandas** → For dataset loading and preprocessing
 
 numpy → For numerical operations
 
