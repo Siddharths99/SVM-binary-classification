@@ -7,8 +7,8 @@ This project implements Support Vector Machine (SVM) for binary classification o
 --------
 
 ## 📂 Dataset  
-- **We use the **Breast Cancer Wisconsin (Diagnostic) dataset** (`BCW.csv`), which contains 569 rows.  
-For this project, only the following columns are used for training and visualization:**
+We use the **Breast Cancer Wisconsin (Diagnostic) dataset** (`BCW.csv`), which contains 569 rows.  
+For this project, only the following columns are used for training and visualization:
 
 | Column Name      | Description |
 |------------------|-------------|
